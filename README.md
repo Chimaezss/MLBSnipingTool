@@ -1,1 +1,2 @@
 # MLBSnipingTool
+A tool for Sniping on MLB The Show games. Sniping is a way to make stubs easily and pretty quickly. Plan is to have easy access to calculations to see if the 'snipe' would be profitable. Meanwhile, having a way to track cards, and what they were listed for. These are all functions within the MLB The Show game but a more streamlined experience for faster card turnaround and better sniping. Plan to expand to track more stats to allow for more stub making.
